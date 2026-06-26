@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Albert 👋
+Senior Data Analyst • Bay Area, CA
 
-<!--
-**alberttao10/alberttao10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🚀 About
+- Senior Data Analyst based in the Bay Area, CA
+- My pride point is in creating both the backend infrastructure and providing actionable business using a broad range of modern tech stack such as the Databricks platform.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+- M.S. in Business Analytics | Saint Mary’s College of California
+- B.A. in Business Administration | University of California, Irvine
+
+### 🧰 Tech Stack
+Python: Pandas, PySpark, Matplotlib, Scikit-Learn, XGBoost
+Data Engineering: Databricks Delta Lake, Medallion Architecture, Azure DevOps, dbt
+Database: PostgreSQL, MySQL, Oracle SQL, Databricks SQL
+Visualization: Microsoft Power BI, Tableau, Oracle Analytics, Adobe Analytics
