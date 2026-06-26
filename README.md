@@ -11,7 +11,7 @@ Senior Data Analyst • Bay Area, CA
 - B.A. in Business Administration | University of California, Irvine
 
 ### 🧰 Tech Stack
-Python: Pandas, PySpark, Matplotlib, Scikit-Learn, XGBoost
-Data Engineering: Databricks Delta Lake, Medallion Architecture, Azure DevOps, dbt
-Database: PostgreSQL, MySQL, Oracle SQL, Databricks SQL
-Visualization: Microsoft Power BI, Tableau, Oracle Analytics, Adobe Analytics
+- Python: Pandas, PySpark, Matplotlib, Scikit-Learn, XGBoost
+- Data Engineering: Databricks Delta Lake, Medallion Architecture, Azure DevOps, dbt
+- Database: PostgreSQL, MySQL, Oracle SQL, Databricks SQL
+- Visualization: Microsoft Power BI, Tableau, Oracle Analytics, Adobe Analytics
